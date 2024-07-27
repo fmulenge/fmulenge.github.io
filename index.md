@@ -5,7 +5,6 @@ group: home
 ---
 
 # Welcome to my Website!
-{: .display-4}
 <br>
 We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
 {: .welcomefont}
