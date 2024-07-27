@@ -1,5 +1,5 @@
 ---
-title: Mulenge Website
+title: Mulenge
 layout: home
 group: home
 ---
