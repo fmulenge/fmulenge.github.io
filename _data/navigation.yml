@@ -10,10 +10,6 @@
   link: "/publications"
   group: publications
 
-- name: teaching
-  link: "/courses"
-  group: courses
-
 - name: news
   link: "/news"
   group: news
@@ -21,7 +17,3 @@
 - name: contact
   link: "/contact"
   group: contact
-
-- name: private
-  #link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private
