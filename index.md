@@ -13,6 +13,5 @@ Research in the lab is focused on discovering the fundamental principles of macr
 We are located in Genentech Hall at the Mission Bay Campus of UCSF.
 {: .welcomefont}
 
-For info about how to contact the lab, click [here](<a href="/contact">).
-<p>For info about how to contact the lab, <a href="/contact">click here</a>.</p>
+For info about how to contact the lab, click [here](/contact).
 {: .welcomefont}
