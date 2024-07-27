@@ -1,7 +1,7 @@
 name: "Felix Mulenge"
 description: "This is the official web page for Felix Mulenge at HZI."
 
-url: "http://fmulenge.com"
+url: "https://fmulenge.com"
 
 paginate: 5
 plugins: [jekyll-paginate]
