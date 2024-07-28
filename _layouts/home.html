@@ -1,12 +1,28 @@
 {% include header.html %}
 <div class="container px-2 max-width: 100%">
     <img class="img-fluid mx-auto d-block" src="/static/img/logo/jf_aa_logo.jpg" alt="Fraser at UCSF, in molecular form">
+    <small>Proteus Oceani & Tethyos filius</small> <small class="text-muted">adopted from </small>
     <div class="row">
-        <div class="col-sm-15">
-    	    <div class="jumbotron h-100">
+        <div class="col-md-10">
+    	    <div class="jumbotron">
         	    {{ content }}
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+             <h3> Interested in joining the lab? </h3>
+             Have a look at the <a href="{{ site.url }}/join">instructions</a> and please get in touch!.<br>
+        </div>
+        <div class="col">
+            <h3> Recent Posts </h3>
+            <ul>
+              {% for post in site.posts limit: 5 %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+            </ul>
+        </div>
+    </div>    
 </div>
 {% include footer.html %}
+
