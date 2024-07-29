@@ -48,6 +48,13 @@
   padding: 2rem 0rem;
 }
 
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
 body {
   font-weight: 400;
   font-family: "Arial", "sans-serif";
