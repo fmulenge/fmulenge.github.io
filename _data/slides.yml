@@ -10,7 +10,7 @@
 #- image: 'images/slide_asrc_cdi.jpg'
 #- image: 'images/slide_Da-Cui-ASRC-sunset.jpg'
 
-- image: 'static/image/logo/github_logo.jpg'
-- image: 'static/image/logo/gscholar_logo.jpg'
-- image: 'static/image/logo/linkedin_logo.jpg'
-- image: 'static/image/logo/orcid_logo.jpg'
+- image: 'static/img/logo/github_logo.jpg'
+- image: 'static/img/logo/gscholar_logo.jpg'
+- image: 'static/img/logo/linkedin_logo.jpg'
+- image: 'static/img/logo/orcid_logo.jpg'
