@@ -4,7 +4,7 @@ layout: default
 group: contact
 ---
 
-# Contact Dr. Mulenge
+### Contact Dr. Mulenge
 
 
 <div class="row">
