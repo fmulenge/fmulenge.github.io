@@ -62,9 +62,7 @@
   text-align: center;
 }
 .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+margin-top:-50%
 }
 .top-right {
   position: absolute;
