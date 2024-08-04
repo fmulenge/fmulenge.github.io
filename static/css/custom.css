@@ -57,8 +57,12 @@
     float: left;
 }
 
-.centered-text {
-  text-align: center;
+.image-with-text {
+  display: flex;
+  align-items: center;
+}
+.image-with-text img {
+  margin-right: 10px; /* adjust as needed */
 }
 
 .dx
