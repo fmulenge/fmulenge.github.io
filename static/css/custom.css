@@ -61,9 +61,9 @@
   display: flex;
   align-items: center;
 }
-.image-with-text img {
-  margin-right: 10px; /* adjust as needed */
-}
+/*.image-with-text img {
+/*  margin-right: 10px; /* adjust as needed */
+/*}
 
 .dx
 {
