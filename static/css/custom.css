@@ -45,7 +45,8 @@
 
 .jumbotron {
   background-color: #fff;
-  padding: 2rem 0rem;
+   height:auto;
+   padding:5px 0 !important;
 }
 
 .avatar {
