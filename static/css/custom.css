@@ -99,7 +99,7 @@ blockquote {
     position: absolute;
     width: 100%;
     left: 50px !important;
-    text-align: left;
+    text-align: center;
     margin:0 auto;
 }
 
