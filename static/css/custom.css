@@ -56,7 +56,7 @@
     border-radius: 50%;
     overflow: hidden;
     float: left;
-    transform:translateY(-5px) !important;
+    transform:translateY(-10px) !important;
 }
 
 .dx
