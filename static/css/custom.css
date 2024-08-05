@@ -49,6 +49,7 @@
    padding:5px 0 !important;
 }
 
+<!---control home page logo-->
 .avatar {
     width: 40px;
     height: 40px;
@@ -75,6 +76,7 @@ blockquote {
   margin: 0 30px 1rem 30px;
 }
 
+<!-- control text below home page image--->
 .text-wrapper{
    float: center;
    width:100;
@@ -95,18 +97,10 @@ blockquote {
    }
 }
 
+<!-- control brand Name-->
 .navbar-brand {
    position: absolute;
    width: 100%;
    padding-left: 50px !important;
-}
-
-.navbar-brand-name img{
-   display: inline-block;
-   width: 40px;
-   height: 40px;
-   border-radius: 50%;
-   overflow: hidden;
-   float: left;
 }
 
