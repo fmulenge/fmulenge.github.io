@@ -94,3 +94,11 @@ blockquote {
       width: 100%;
    }
 }
+
+.navbar .navbar-brand {
+  padding: 2px 15px;
+}
+
+.navbar .navbar-brand img {
+  display: inline-block;
+}
