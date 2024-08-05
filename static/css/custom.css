@@ -50,7 +50,7 @@
    padding-bottom:5px !important;
 }
 
-#control home page logo
+/*control home page logo/*
 .avatar {
     width: 40px;
     height: 40px;
@@ -77,7 +77,7 @@ blockquote {
   margin: 0 30px 1rem 30px;
 }
 
-#control text below home page image
+/* control text below home page image/*
 .text-wrapper{
    float: center;
    width:100;
@@ -98,7 +98,7 @@ blockquote {
    }
 }
 
-#control brand Name
+/*control brand Name /*
 .navbar-brand {
    position: absolute;
    width: 100%;
