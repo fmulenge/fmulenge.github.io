@@ -97,7 +97,8 @@ blockquote {
 
 .navbar-brand {
    display: inline-block;
-   float: left;
+   width: 100%;
+   text-align: left;
 }
 
 .navbar-brand-name img{
