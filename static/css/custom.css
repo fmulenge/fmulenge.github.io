@@ -98,7 +98,8 @@ blockquote {
 .navbar-brand {
     position: absolute;
     width: 100%;
-    text-align: center;
+    left: 60px;
+    text-align: left;
     margin:0 auto;
 }
 
