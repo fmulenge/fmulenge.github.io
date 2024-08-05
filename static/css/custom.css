@@ -46,7 +46,8 @@
 .jumbotron {
   background-color: #fff;
    height:auto;
-   padding:5px 0 !important;
+   padding-top:5px !important;
+   padding-bottom:5px !important;
 }
 
 <!---control home page logo-->
