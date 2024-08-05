@@ -75,3 +75,22 @@ blockquote {
   margin: 0 30px 1rem 30px;
 }
 
+.text-wrapper{
+   float: center;
+   width:100;
+}
+
+.text-wrapper img{
+   width:100%;
+}
+
+.text-wrapper p{
+   text-align: center;
+}
+
+@media(min-width: 992px){
+   .text-wrapper{
+      float: none;
+      width: 100%;
+   }
+}
