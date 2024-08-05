@@ -96,9 +96,9 @@ blockquote {
 }
 
 .navbar-brand {
-   display: inline-block;
+   position: absolute;
    width: 100%;
-   text-align: left;
+   padding-left: 50px !important;
 }
 
 .navbar-brand-name img{
