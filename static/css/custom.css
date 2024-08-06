@@ -97,6 +97,10 @@ blockquote {
    }
 }
 
+.blockstyle {
+  text-align:justify;
+}
+
 .navbar-brand-name {
    position: absolute;
    width: 100%;
