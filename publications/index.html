@@ -19,7 +19,8 @@ group: publications
 	<ul class="col-md-15">
 	        <div style="font-size: 100%; font-weight: bolder !important; width: 100%">{{ publication.title | markdownify }}</div>
 		<div>{{ publication.citation | markdownify }}</div>
-	        	        
+	<div class="row">
+		<div class="col"> 	        	        
 			<strong>Access the paper</strong>
 			<!--PMID-->
 			{% if publication.pmid %}
@@ -84,27 +85,27 @@ group: publications
 				{% endfor %}
 			</li>
 			{% endif %}
-
-            <br/>
-
+			
+		</div>
+		<div class="col-md-4">
 			<!--Extra junk-->
 			<strong>Additional Links</strong>
 			{% for link in publication.links %}
 			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
 			{% endfor %}
 			
-            <br/>
-            
-            {% if publication.pmid %}
+		</div>
+		<div class="col-md-4">
+			{% if publication.pmid %}
 			<strong>Article metrics</strong>
             <span class="__dimensions_badge_embed__" data-pmid="{{publication.pmid}}"
                 data-style="small_rectangle"></span>
             <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
             <div class='altmetric-embed' data-pmid='{{publication.pmid}}' data-hide-less-than='1' data-badge-popover='right' data-link-target='_blank'></div>
             {% endif %}
-
-            <br/>
-
+			
+		</div>
+	</div>
 	</ul>
 	<div class="col-sm-4">
 		<img class = "img-fluid" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
