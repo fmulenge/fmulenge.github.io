@@ -72,7 +72,7 @@
        url: ""
        
   - title: "Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells"
-   citation: "Costa B., Becker J., Krammer T., Mulenge F., Durán V., Pavlou A., Gern O.L., Chu X., Li Y., Čičin-Šain L., Eiz-Vesper B., Messerle M., Dölken L., Saliba A.E, Erhard F., Kalinke U. *Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells*. Nat Commun 15, 1745 (2024)"
+   citation: "Costa B., Becker J., Krammer T., **Mulenge F.**, Durán V., Pavlou A., Gern O.L., Chu X., Li Y., Čičin-Šain L., Eiz-Vesper B., Messerle M., Dölken L., Saliba A.E, Erhard F., Kalinke U. *Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells*. Nat Commun 15, 1745 (2024)"
    date: '202402'
    pmcid: 'PMC10897438'
    doi: '10.1038/s41467-024-45614-3'
@@ -82,26 +82,6 @@
      - name: Twitter thread
        url: ""
 
-# - title: "Reduced ambiguity and improved interpretability of bacterial genome-wide associations using gene-cluster-centric k-mers"
-#   citation: "**Sommer, H.**, **Djamalova, D.**, & **Galardini, M.** (2023). Reduced ambiguity and improved interpretability of bacterial genome-wide associations using gene-cluster-centric k-mers. Microbial Genomics, 9(11), 001129."
-#   date: '202311'
-#   image: '/static/img/pub/neubauer_2023.jpg'
-#   pmid: '37934071'
-#   pmcid: 'PMC10711318'
-#   biorxiv: '2023.04.11.536385'
-#   links:
-#     - name: Summary blog post
-#       url: "../2023/11/09/Multiple-haystacks-are-beter-than-one/"
-#     - name: Software repository
-#       url: https://github.com/microbial-pangenomes-lab/panfeed
-#     - name: conda package
-#       url: https://anaconda.org/bioconda/panfeed
-#     - name: pypi package
-#       url: https://pypi.org/project/panfeed/
-#     - name: Benchmark repository
-#       url: https://github.com/microbial-pangenomes-lab/panfeed_benchmark_scripts
-#     - name: Twitter summary thread (pre-print)
-#       url: https://twitter.com/mgalactus/status/1646131125629198338
  
 
  
