@@ -19,8 +19,8 @@ group: publications
 	<ul class="col">
 	        <!--div style="font-size: 100%; font-weight: bolder !important; width: 100%">{{ publication.title | markdownify }}</div> -->
 		<div>{{ publication.citation | markdownify }}</div>
-	<div class="row">
-		<div class="col-md-4"> 	        	        
+	<div class="row" style="margin-left:10px;">
+		<div class="col"> 	        	        
 			<strong>Access the paper</strong>
 			<!--PMID-->
 			{% if publication.pmid %}
