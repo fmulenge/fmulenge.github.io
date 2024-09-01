@@ -47,9 +47,9 @@
    pmcid: 'PMC11330067'
    links:
      - name: Press release (Twincore)
-       url: ""
+       url: "xx"
      - name: Twitter thread
-       url: ""
+       url: "https://x.com/FMulenge/status/1825497780745363506"
  
  - title: "Orchestration of antiviral responses within the infected central nervous system"
    citation: "Pavlou A., **Mulenge F**., Gern O.L. Busker L.M., Greimel E., Waltl I., Ulrich Kalinke U. *Orchestration of antiviral responses within the infected central nervous system*. Cell Mol Immunol 21, 943–958 (2024)"
@@ -58,9 +58,9 @@
    doi: '10.1038/s41423-024-01181-7'
    links:
      - name: Twitter thread
-       url: ""
+       url: "https://x.com/FMulenge/status/1811772694347608438"
        
-  - title: "Birch pollen-induced signatures in dendritic cells are maintained upon additional cytomegalovirus exposure"
+ - title: "Birch pollen-induced signatures in dendritic cells are maintained upon additional cytomegalovirus exposure"
    citation: "Fneish Z., Becker J., **Mulenge F.**, Fneish F., Costa B., Traidl-Hoffmann C., Gilles S., Kalinke U. *Birch pollen-induced signatures in dendritic cells are maintained upon additional cytomegalovirus exposure.* Gene. 2024 Nov 15;927:148649."
    date: '202406'
    pmid: '38852697'
@@ -68,9 +68,17 @@
    links:
      - name: Press release (Twincore)
        url: ""
-     - name: Twitter thread
-       url: ""
        
+ - title: "Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells"
+   citation: "Costa B., Becker J., Krammer T., **Mulenge F.**, Duran V., Pavlou A., Gern O.L., Chu X., Li Y., Cicin-Sain L., Eiz-Vesper B., Messerle M., Dölken L., Saliba A.E, Erhard F., Kalinke U. *Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells*. Nat Commun 15, 1745 (2024)"
+   date: '202402'
+   pmcid: 'PMC10897438'
+   doi: '10.1038/s41467-024-45614-3'
+   links:
+     - name: Press release (Twincore)
+       url: "https://www.twincore.de/infothek/mitteilungsarchiv/mitteilungsarchiv-news-details/news/kidnapping-im-immunsystem/"
+     - name: Twitter thread
+       url: "https://x.com/FMulenge/status/1762118407216894391"
 
  
 
