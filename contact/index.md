@@ -4,7 +4,7 @@ layout: default
 group: contact
 ---
 
-# Contact
+### Contact
 
 
 <div class="row">
