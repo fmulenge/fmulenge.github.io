@@ -11,20 +11,14 @@ group: publications
 
 <div class="row">
 	<ul class="col-md-15">
-    <h3>Main publications</h3>
+    <h3>Publications</h3>
 
 {% for publication in site.data.publications %}
 <hr>
 <div class="row" style="padding-top: 20px; margin-top: - 20px;">
 	<ul class="col-md-15">
-	        <div style="font-size: 120%; font-weight: bolder !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}</div>
-	        
-            <!--From the previous labs?
-	        {% if publication.previous %}
-	        <p class="text-muted">(this publication predates the Microbial Pangenomes Lab but it is relevant to its research interests)</p>
-	        {% endif %}
-	        -->
-	        
+	        <div style="font-size: 100%; font-weight: bolder !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}</div>
+	        	        
 			<strong>Access the paper</strong>
 			<!--PMID-->
 			{% if publication.pmid %}
