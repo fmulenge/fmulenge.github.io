@@ -71,16 +71,6 @@
      - name: Twitter thread
        url: ""
        
-  - title: "Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells"
-   citation: "Costa B., Becker J., Krammer T., **Mulenge F.**, Duran V., Pavlou A., Gern O.L., Chu X., Li Y., Cicin-Sain L., Eiz-Vesper B., Messerle M., Dölken L., Saliba A.E, Erhard F., Kalinke U. *Human cytomegalovirus exploits STING signaling and counteracts IFN/ISG induction to facilitate infection of dendritic cells*. Nat Commun 15, 1745 (2024)"
-   date: '202402'
-   pmcid: 'PMC10897438'
-   doi: '10.1038/s41467-024-45614-3'
-   links:
-     - name: Press release (Twincore)
-       url: ""
-     - name: Twitter thread
-       url: ""
 
  
 
