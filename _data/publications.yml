@@ -89,4 +89,56 @@
      - name: Twitter thread
        url: "https://x.com/FMulenge/status/1762118407216894391" 
 
- 
+ - title: "Dynamics of reactive astrocytes fosters tissue regeneration after cuprizone-induced demyelination"
+   citation: "Schröder L.J., **Mulenge F.**, Pavlou A., Skripuletz T., Stangel M., Gudi V., Kalinke U. *Dynamics of reactive astrocytes fosters tissue regeneration after cuprizone-induced demyelination.* Glia. 2023 Nov;71(11):2573-2590."
+   date: '202307'
+   pmid: '37455566'
+   doi: '10.1002/glia.24440'
+   links:
+     - name: Twitter thread
+       url: "https://x.com/FMulenge/status/1680911447440621568"  
+
+ - title: "Birch pollen extract enhances human cytomegalovirus replication in monocyte-derived dendritic cells"
+   citation: "Fneish Z., Becker J., **Mulenge F.**, Costa B., Krajewski L., Duran V., Ziegler A., Sommer V., Traidl-Hoffmann C., Gilles S., Kalinke U. *Birch pollen extract enhances human cytomegalovirus replication in monocyte-derived dendritic cells.* Allergy. 2023 Feb;78(2):543-546."
+   date: '202209'
+   pmid: '36038150'
+   doi: '10.1111/all.15497'
+   links:
+     - name: Twitter thread
+       url: "xx"  
+
+ - title: "Toll-like Receptors in Viral Encephalitis"
+   citation: "Gern O.L., **Mulenge F.**, Pavlou A., Ghita L., Steffen I., Stangel M., Kalinke U. *Toll-like Receptors in Viral Encephalitis.* Viruses. 2021 Oct 14;13(10):2065."
+   date: '202110'
+   pmid: '34696494'
+   doi: '10.3390/v13102065'
+   links:
+     - name: Twitter thread
+       url: "https://x.com/FMulenge/status/1448574424962244615"  
+
+ - title: "Sequential MAVS and MyD88/TRIF signaling triggers anti-viral responses of tick-borne encephalitis virus-infected murine astrocytes"
+   citation: "Ghita L., Breitkopf V., **Mulenge F.**, Pavlou A., Gern O.L., Durán V., Prajeeth C.K., Kohls M., Jung K., Stangel M., Steffen I., Kalinke U. *Sequential MAVS and MyD88/TRIF signaling triggers anti-viral responses of tick-borne encephalitis virus-infected murine astrocytes.* J Neurosci Res. 2021 Oct;99(10):2478-2492."
+   date: '202107'
+   pmid: '34296786'
+   doi: '10.1002/jnr.24923'
+   links:
+     - name: Twitter thread
+       url: "yy" 
+
+ - title: "MyD88 signaling by neurons induces chemokines that recruit protective leukocytes to the virus-infected CNS"
+   citation: "Ghita L., Spanier J., Chhatbar C., **Mulenge F.**, Pavlou A., Larsen P.K., Waltl I., Lueder Y., Kohls M., Jung K., Best S.M., Förster R., Stangel M., Schreiner D., Kalinke U. *MyD88 signaling by neurons induces chemokines that recruit protective leukocytes to the virus-infected CNS.* Sci Immunol. 2021 Jun 25;6(60):eabc9165."
+   date: '202106'
+   pmid: '34172587'
+   doi: '10.1126/sciimmunol.abc9165'
+   links:
+     - name: Twitter thread
+       url: "https://x.com/SciImmunology/status/1659993674174922752"  
+
+ - title: "Genetic Diversity and Population Structure of Plasmodium falciparum in Lake Victoria Islands, A Region of Intense Transmission"
+   citation: "**Mulenge F.**, Hunja C.W., Magiri E., Culleton R., Kaneko A., Aman R.A. *Genetic Diversity and Population Structure of Plasmodium falciparum in Lake Victoria Islands, A Region of Intense Transmission.* Am J Trop Med Hyg. 2016 Nov 2;95(5):1077-1085."
+   date: '201611'
+   pmid: '27601522'
+   doi: '10.4269/ajtmh.16-0383'
+   links:
+     - name: Twitter thread
+       url: "zz"    
