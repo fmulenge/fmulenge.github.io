@@ -40,16 +40,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
-# - title: "MAVS signaling shapes microglia responses to neurotropic virus infection"
-#   citation: "Gern O.L., Pavlou A., **Mulenge F.**, Busker L.M., Ghita L., Aringo A., Costa B., Spanier J., Waltl I., Stangel M. & Kalinke U. *MAVS signaling shapes microglia responses to neurotropic virus infection.* J Neuroinflammation. 2024 Oct 18;21(1):264.".
-#   date: '202410'
-#   pmid: '39153993'
-#   pmcid: 'PMC11330067'
-#   links:
-#     - name: Press release (Twincore)
-#       url: 
-#     - name: Twitter thread
-#       url: 
+ - title: "MAVS signaling shapes microglia responses to neurotropic virus infection"
+   citation: "Gern O.L., Pavlou A., **Mulenge F.**, Busker L.M., Ghita L., Aringo A., Costa B., Spanier J., Waltl I., Stangel M. & Kalinke U. *MAVS signaling shapes microglia responses to neurotropic virus infection.* J Neuroinflammation. 2024 Oct 18;21(1):264.".
+   date: '202410'
+   pmid: '39425188'
+   #pmcid: ''
+   links:
+     - name: Press release (Twincore)
+       url: 
+     - name: Twitter thread
+       url: "https://x.com/FMulenge/status/1847643901760270367"
        
  - title: "Transcriptomic analysis unveils bona fide molecular signatures of microglia under conditions of homeostasis and viral encephalitis"
    citation: "**Mulenge F**., Gern O.L., Busker L.M., Aringo A., Ghita L., Waltl I., Pavlou A., Kalinke U. *Transcriptomic analysis unveils bona fide molecular signatures of microglia under conditions of homeostasis and viral encephalitis.* J Neuroinflammation. 2024 Aug 17;21(1):203."
