@@ -96,12 +96,12 @@ group: publications
 			
 		</div>
 		<div class="col-md-4">
-			{% if publication.doi %}
+			{% if publication.pmid %}
 			<strong>Article metrics</strong>
-            <span class="__dimensions_badge_embed__" data-pmid="{{publication.doi}}"
+            <span class="__dimensions_badge_embed__" data-pmid="{{publication.pmid}}"
                 data-style="small_rectangle"></span>
             <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-            <div class='altmetric-embed' data-pmid='{{publication.doi}}' data-hide-less-than='1' data-badge-popover='right' data-link-target='_blank'></div>
+            <div class='altmetric-embed' data-pmid='{{publication.pmid}}' data-hide-less-than='1' data-badge-popover='right' data-link-target='_blank'></div>
             {% endif %}
 			
 		</div>
